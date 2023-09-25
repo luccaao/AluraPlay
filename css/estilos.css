@@ -32,7 +32,7 @@ body {
 }
 
 .logo__item {
-    background-image: url(img/cabecalho/Logo.png);
+    background-image: url(../img/cabecalho/Logo.png);
     background-repeat: no-repeat;
     padding: 15px 65px;
     cursor: pointer;
@@ -48,7 +48,7 @@ body {
 }
 
 .pesquisar__label {
-    background-image: url(img/cabecalho/search.png);
+    background-image: url(../img/cabecalho/search.png);
     background-repeat: no-repeat;
     background-position: center;
     border: 1px solid rgb(211, 211, 211);
@@ -59,34 +59,34 @@ body {
 }
 
 .cabecalho__audio {
-    background-image: url(img/cabecalho/mic.png);
+    background-image: url(../img/cabecalho/mic.png);
     padding: 20px;
     display: none;
 }
 
 .cabecalho__videos {
-    background-image: url(img/cabecalho/video_call.png);
+    background-image: url(../img/cabecalho/video_call.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 20px;
 }
 
 .cabecalho__apps {
-    background-image: url(img/cabecalho/apps.png);
+    background-image: url(../img/cabecalho/apps.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecalho__notificacoes {
-    background-image: url(img/cabecalho/notifications.png);
+    background-image: url(../img/cabecalho/notifications.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
 }
 
 .cabecalho__avatar {
-    background-image: url(img/cabecalho/Avatar.png);
+    background-image: url(../img/cabecalho/Avatar.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
@@ -105,79 +105,79 @@ body {
 }
 
 .icone__inicio::before {
-    content: url(img/menu/home.png);
+    content: url(../img/menu/home.png);
 }
 
 .icone__explorar::before {
-    content: url(img/menu/explore.png);
+    content: url(../img/menu/explore.png);
 }
 
 .icone__shorts::before {
-    content: url(img/menu/shorts.png);
+    content: url(../img/menu/shorts.png);
 }
 
 .icone__inscricoes::before {
-    content: url(img/menu/subscriptions.png);
+    content: url(../img/menu/subscriptions.png);
 }
 
 .icone__biblioteca::before {
-    content: url(img/menu/video_library.png);
+    content: url(../img/menu/video_library.png);
 }
 
 .icone__historico::before {
-    content: url(img/menu/history.png);
+    content: url(../img/menu/history.png);
 }
 
 .icone__relogio::before {
-    content: url(img/menu/history_toggle_off.png);
+    content: url(../img/menu/history_toggle_off.png);
 }
 
 .icone__like::before {
-    content: url(img/menu/thumb_up_alt.png);
+    content: url(../img/menu/thumb_up_alt.png);
 }
 
 .icone__alura::before {
-    content: url(img/menu/Avatar_Alura.png);
+    content: url(../img/menu/Avatar_Alura.png);
 }
 
 .icone__gaveta::before {
-    content: url(img/menu/Avatar_Gaveta.png);
+    content: url(../img/menu/Avatar_Gaveta.png);
 }
 
 .icone__ballerini::before {
-    content: url(img/menu/Avatar_Rafa.png);
+    content: url(../img/menu/Avatar_Rafa.png);
 }
 
 .icone__iamarino::before {
-    content: url(img/menu/Avatar_Atila.png);
+    content: url(../img/menu/Avatar_Atila.png);
 }
 
 .icone__souto::before {
-    content: url(img/menu/Avatar_Souto.png);
+    content: url(../img/menu/Avatar_Souto.png);
 }
 
 .icone__nerd::before {
-    content: url(img/menu/Avatar_Jovem_Nerd.png);
+    content: url(../img/menu/Avatar_Jovem_Nerd.png);
 }
 
 .icone__deschamps::before {
-    content: url(img/menu/Avatar_Deschamps.png);
+    content: url(../img/menu/Avatar_Deschamps.png);
 }
 
 .icone__mostrar::before {
-    content: url(img/menu/keyboard_arrow_down.png);
+    content: url(../img/menu/keyboard_arrow_down.png);
 }
 
 .icone__videos::before {
-    content: url(img/menu/videos.png);
+    content: url(../img/menu/videos.png);
 }
 
 .icone__filmes::before {
-    content: url(img/menu/filmes.png);
+    content: url(../img/menu/filmes.png);
 }
 
 .icone__jogos::before {
-    content: url(img/menu/jogos.png);
+    content: url(../img/menu/jogos.png);
 }
 
 /* SECAO SUPERIOR */
